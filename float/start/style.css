@@ -48,10 +48,9 @@ aside {
   background-color: #f7f7f7;
   border-top: 5px solid #1098ad;
   border-bottom: 5px solid #1098ad;
-  /* padding-top: 50px;
-  padding-bottom: 50px; */
-  padding: 50px 0;
-  width: 500px;
+  padding: 50px 40px;
+  box-sizing: border-box;
+
 }
 
 /* SMALLER ELEMENTS */
@@ -134,6 +133,7 @@ li:last-child {
 
 .related {
   list-style: none;
+  margin-left: 0;
 }
 
 body {
@@ -265,7 +265,7 @@ footer p {
 nav p {
   font-size: 18px;
 } */
-/*
+
 .author{ padding-left: 0px;}
 
 .author-img{float: left;}
@@ -278,7 +278,6 @@ content: "";
 display: block;
 }
 article {background-color: green;
-width: 60%;float: left;}
+width: 55%;float: left;}
 aside{background-color: red;width: 40%;float: right;}
 footer{background-color: yellow;clear: both;}
-*/
