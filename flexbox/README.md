@@ -3,6 +3,8 @@ Flexbox é um módulo do CSS que permite criar **layouts flexíveis e responsivo
 
 O Flexbox é útil quando você deseja criar layouts complexos que se ajustam a diferentes tamanhos de tela. Ele é amplamente suportado pelos navegadores modernos e é fácil de usar com HTML e CSS.
 
+![image.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1606910969576/3TzfJram_.png?auto=compress,format&format=webp)
+
 ## Cards
 Cards são um elemento comum em layouts de páginas da Web. Eles são usados para**exibir informações em um formato compacto e fácil** de ler. Em CSS, você pode criar cards usando várias técnicas, como **CSS Grid e Flexbox**.
 
