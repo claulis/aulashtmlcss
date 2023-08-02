@@ -1,0 +1,55 @@
+body {
+    font-family: Arial, sans-serif;
+    color: #ffffff;
+    background-image: url('https://cutewallpaper.org/21/naruto-akatsuki-wallpaper/Akatsuki-Wallpaper-iPhone-58-images.jpg');
+    background-position: center;
+    background-size: cover;
+    background-attachment: fixed;
+  }
+
+h1{
+    font-size: 50px;
+    text-align: center;
+    font-family:cursive, sans-serif;
+    font-size: 48px;
+    color: #ffcc00;
+    text-shadow: 2px 2px #000000;
+   }
+   
+.logo{ width: 20%; 
+       display: block;
+       margin: auto;
+
+      }
+
+.container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    max-width: 1000px;
+    margin: 0 auto;
+    padding: 20px;
+    font-family: Arial, Helvetica, sans-serif ;
+    color: #e0218a;
+  }
+  
+  .card {
+    background-color: #ffffff;
+    border-radius: 5px;
+    padding: 20px;
+    width: 20%;
+    margin-bottom: 20px;
+  }  
+  .card img {
+    width: 100%;
+    border-radius: 5px;
+    margin-bottom: 10px;
+  }
+  
+  .card h2 {
+    font-size: 20px;
+    margin-bottom: 10px;
+    text-align: center;
+  }
+  
+  
